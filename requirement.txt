@@ -1,0 +1,5 @@
+pandas
+symengine
+openfermion==0.11.0 #https://github.com/quantumlib/OpenFermion/tree/02a0088347c31ad3b6b73db18bc598ef6ddb923a
+openfermionpyscf==0.4 #https://github.com/quantumlib/OpenFermion-PySCF/tree/v0.4
+dwave-ocean-sdk==3.3.0 #https://github.com/dwavesystems/dwave-ocean-sdk
