@@ -5,6 +5,8 @@ Methods to calculate the ground state properties of molecular systems using quan
         Properties of Molecules,” (2020), arXiv:2009.10779v2 [quant-ph].
 
 ### Requirements
+Install the required packages with the command `pip install -r requirement.txt`
+
     numpy                   https://github.com/numpy/numpy 
     scipy                   https://github.com/scipy/scipy
     pandas                  https://github.com/pandas-dev/pandas
