@@ -309,7 +309,8 @@ def get_bounds(cont_vars, angle_folds=0, amplitude_folds=0):
 
 #Converts a symengine expression into a dictionary
 def expr_to_dict(expr):
-    expr2 = se.lib.symengine_wrapper.Add(expr)
+    #expr2 = se.lib.symengine_wrapper.Add(expr)
+    expr2 = se.Add(expr)
     terms = se.Add.make_args(expr2)
     
     dictionary = {}
