@@ -10,7 +10,7 @@ Methods to calculate the ground state properties of molecular systems using quan
     pandas                  https://github.com/pandas-dev/pandas
     symengine               https://github.com/symengine/symengine.py
     pyscf                   https://github.com/pyscf/pyscf
-    openfermion=0.11.0      https://github.com/quantumlib/OpenFermion/tree/02a0088347c31ad3b6b73db18bc598ef6ddb923a
-    openfermionpyscf        https://github.com/quantumlib/OpenFermion-PySCF
-    dwave-ocean-sdk         https://github.com/dwavesystems/dwave-ocean-sdk
+    openfermion==0.11.0     https://github.com/quantumlib/OpenFermion/tree/02a0088347c31ad3b6b73db18bc598ef6ddb923a
+    openfermionpyscf==0.4   https://github.com/quantumlib/OpenFermion-PySCF/tree/v0.4
+    dwave-ocean-sdk==3.3.0  https://github.com/dwavesystems/dwave-ocean-sdk
     fieldmath               https://www.nayuki.io/res/gauss-jordan-elimination-over-any-field/fieldmath.py
